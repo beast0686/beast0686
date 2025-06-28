@@ -92,5 +92,4 @@ I'm a passionate **Software Engineer** currently pursuing a Bachelor of Engineer
   
   **"Code the future, one line at a time! 🚀"**
   
-  Made with ❤️ by **Aman Soudagar**
 </div>
