@@ -47,19 +47,6 @@ I'm a passionate **Software Engineer** currently pursuing a Bachelor of Engineer
 
 </div>
 
-## 🚀 Featured Projects
-
-<div align="center">
-
-| Project | Description | Tech Stack | Stats |
-|---------|-------------|------------|-------|
-| **[Mini Dio](https://github.com/beast0686/mini-dio)** | 🎙️ AI-powered meeting minutes generator with multilingual support | Python, Django, Google Cloud, PostgreSQL | ⭐ 20 🍴 8 |
-| **[Beat Frame](https://github.com/beast0686/beat-frame)** | 🎵 AI music-video generator using OpenAI and Stable Diffusion | Python, Streamlit, OpenAI, Stable Diffusion | ⭐ 15 🍴 5 |
-| **[Play Pulse](https://github.com/beast0686/play-pulse)** | 📈 Sales analysis and prediction tool for gaming hardware | Python, Pandas, Plotly, Scikit-learn | ⭐ 12 🍴 4 |
-| **[Meme Wizard](https://github.com/beast0686/meme-wizard)** | 😂 AI meme generator with sentiment analysis | Python, Flask, Gemini API, MongoDB | ⭐ 18 🍴 6 |
-
-</div>
-
 ## 📊 GitHub Analytics
 
 <div align="center">
@@ -75,13 +62,8 @@ I'm a passionate **Software Engineer** currently pursuing a Bachelor of Engineer
   <img src="https://github-profile-trophy.vercel.app/?username=beast0686&theme=tokyonight&row=1&column=7" alt="GitHub Trophy" />
 </div>
 
-## 🎓 Education & Certifications
+## 🎓 Certifications
 
-### 🏫 Education
-- **Bachelor of Engineering in Computer Science** | BNM Institute of Technology, Bengaluru (2022-Present) | CGPA: 8.95
-- **Pre-University College** | Indian National PU College, Bengaluru (2020-2022) | 85.5%
-
-### 🏆 Recent Certifications
 - **IAMPro-2025** - IEEE (April 2025)
 - **Data Analysis with Python** - IBM (January 2025)
 - **Data Visualization with Python** - IBM (January 2025)
