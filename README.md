@@ -1,6 +1,6 @@
 <!-- 🌌 Intro Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8BE9FD&center=true&width=435&lines=Hi+there!+I'm+Aman+Soudagar+🚀;Welcome+to+my+Tokyo+Night-themed+GitHub+space+👨‍💻" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=8BE9FD&center=true&width=435&lines=Hi+there!+I'm+Aman+Soudagar" alt="Typing SVG" />
 </p>
 
 # 💫 About Me:
